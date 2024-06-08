@@ -1,2 +1,2 @@
 # Hadi-Art
-for the website of art
+for the website of artist.
